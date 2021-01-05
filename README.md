@@ -34,18 +34,24 @@ Introduction of these laws in the system, removes the concept of MSP in the case
         <li>Withdrawal of all cases against and release of farmer leaders</li>
  </ul>
  <h5> The Government's Side </h5>
-  
-  While the government is ready to give written assurance for provision of MSP , to take back FIRs and cases against the Farmers Leaders ,to “decriminalise” stubble burning by excluding farmers from the ambit of the act and drop those provisions of the draft Electricity Amendment Bill, 2020, they are still opposed to demands like the cutting of diesel prices for agriculutural use , as there is no way of knowing for sure whether the purchase of diesel by a customer would be for agricultural purposes.
+  <h5> Agreed </h5>
+  <ul>
+        <li> Written assurance for provision of MSP </li>
+        <li> Taking Back FIRs and Cases Against Farmer Leaders</li>
+        <li> Decriminalising stubble burning by excluding farmers from the ambit of the act and drop provision of the draft of Electricity Amendment Bill 2020
+  </ul>
+  </p> 
+  While the government is ready to give written assurance for provision of MSP , to take back FIRs and cases against the Farmers Leaders ,to “decriminalise” stubble burning by excluding farmers from the ambit of the act and drop those provisions of the draft Electricity Amendment Bill, 2020, they are  <h5>still opposed to demands like the cutting of diesel prices for agriculutural use , as there is no way of knowing for sure whether the purchase of diesel by a customer would be for agricultural purposes</h5>.
  
- </p>
+
  
 
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](Documentation.md) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](Images/web_app.png)
  --- 
-  <h3> Results </h3>
+  ## Results 
   
-  <h4> Tweet Analysis </h4>
+  ### Tweet Analysis 
   
   Twitter is a data mine. We went through thousands of tweets to analyse the sentiments and further apprehend why were certain people for the bills and why certain against them.
   <h4> Top 10 Locations of Tweets </h4>
