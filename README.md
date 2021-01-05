@@ -86,7 +86,7 @@ Introduction of these laws in the system, removes the concept of MSP in the case
    
    On studying the word cloud, the following conclusions were drawn for people against the bill:
    <ul>
-        <li> Implementing these laws would insure the existence of cartels outside of APMC </li
+        <li> Implementing these laws would insure the existence of cartels outside of APMC </li>
         <li> The highest prices would be set by the cartels and not by the farmers </li>
         <li> The government isn't corporating with the farmers </li>
    </ul>
