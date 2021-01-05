@@ -69,26 +69,26 @@ Introduction of these laws in the system, removes the concept of MSP in the case
   Let's further implore the reason behind these sentiments.
   
   <h4> Word Cloud of Positive Sentiments (Supporters) </h4>
-  <img src="https://github.com/thedatanecdotes/FarmersProtest/blob/main/Images/decpcloud.png" />
+  <img src="https://github.com/thedatanecdotes/FarmersProtest/blob/main/Images/pcloud.png" />
   <br/>
   
-  On studying the word cloud , one can make out the fact that the ones who are in support of the bills believe:
+  On studying the word cloud , the following conclusions were drawn for people for the bill:
   <ul>
-        <li> Farmers and middlemen are being misled </li>
-        <li> The Farm Bills are for the benefit of the farmer. </li>
+        <li> That the laws should be supported</li>
+        <li> There are talks amongst them for the influence of cartels in mandis </li>
         <li> The farmers are being influenced by the opposition parties </li>
+        
    </ul>
            
    <h4> Word Cloud for Negative Sentiments (Opposers) </h4>
-   <img src="https://github.com/thedatanecdotes/FarmersProtest/blob/main/Images/decncloud.png" />
+   <img src="https://github.com/thedatanecdotes/FarmersProtest/blob/main/Images/ncloud.png" />
    <br/>
    
    On studying the word cloud, the following conclusions were drawn for people against the bill:
    <ul>
-        <li> Implementing these laws would insure the existence of cartels outside of APMC </li>
-        <li> Existence of cartels would imply that the produce is being sold at bad prices to the farmers </li>
+        <li> Implementing these laws would insure the existence of cartels outside of APMC </li
         <li> The highest prices would be set by the cartels and not by the farmers </li>
-        <li> The laws proposed by the government are unfair to the farmers and hence should be revised </li>
+        <li> The government isn't corporating with the farmers </li>
    </ul>
    
   
