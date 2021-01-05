@@ -3,6 +3,7 @@
         <br/>
         <h2 align="center"> 2020 Farmers' Protest </h2>
         <br/>
+   <h2>The Movement so far</h2>
         <h4> The 2020 Farmers' Protest is an ongoing movement in India against the three farme bills passed in the session of Parliament in September 2020. The three laws passed are as follows:<br/> <br/>
  </h4>
         <ul>
